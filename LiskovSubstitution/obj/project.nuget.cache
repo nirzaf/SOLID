@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhMmmNB4zkff9C7YamveUNnggrZufWzMtNIfonAS9L8IMLkd1HQX0SearOKU2eud4pK1wr3S5ybQVhKtYsT9lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmfazrin\\RiderProjects\\SOLID\\LiskovSubstitution\\LiskovSubstitution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.6\\microsoft.netcore.app.host.win-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

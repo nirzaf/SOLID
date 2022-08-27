@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "35abOtuDVny9XdW8dRzF6deOB6lUDPAJLsDHblKFM3y6kI1+KemUADlMmMYuDkhG9kb/kwjdBw/szIK2PaeTjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmfazrin\\RiderProjects\\SOLID\\SingleResponsibility\\SingleResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\mmfazrin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.6\\microsoft.netcore.app.host.win-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

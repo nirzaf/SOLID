@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{18B8FB85-1CFB-4803-969F-7920F4348870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitution", "LiskovSubstitution\LiskovSubstitution.csproj", "{7C505A2A-2E2D-428E-BA52-036ED10E134B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B8FB85-1CFB-4803-969F-7920F4348870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B8FB85-1CFB-4803-969F-7920F4348870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B8FB85-1CFB-4803-969F-7920F4348870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B8FB85-1CFB-4803-969F-7920F4348870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C505A2A-2E2D-428E-BA52-036ED10E134B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C505A2A-2E2D-428E-BA52-036ED10E134B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C505A2A-2E2D-428E-BA52-036ED10E134B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C505A2A-2E2D-428E-BA52-036ED10E134B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

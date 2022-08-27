@@ -1,0 +1,15 @@
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.exe
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.deps.json
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.runtimeconfig.json
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.dll
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.pdb
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.dll
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\refint\SingleResponsibility.dll
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.pdb
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.genruntimeconfig.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\SingleResponsibility\obj\Debug\net6.0\ref\SingleResponsibility.dll

@@ -1,0 +1,15 @@
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.exe
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.deps.json
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.runtimeconfig.json
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.dll
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.pdb
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.dll
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\refint\LiskovSubstitution.dll
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.pdb
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.genruntimeconfig.cache
+C:\Users\mmfazrin\RiderProjects\SOLID\LiskovSubstitution\obj\Debug\net6.0\ref\LiskovSubstitution.dll
